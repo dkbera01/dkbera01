@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dkbera01
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning node js and vue js
+- 🌱 I’m currently learning node js, react js and vue js
 
 
 <!---
