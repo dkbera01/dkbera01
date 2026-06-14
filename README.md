@@ -1,9 +1,41 @@
-- 👋 Hi, I’m @dkbera01
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning node js, react js and vue js
+<h1 align="center">Hi 👋, I'm Dhaval Bera</h1>
 
+<h3 align="center">
+Full-Stack Developer | Laravel | Node.js | AI Enthusiast
+</h3>
 
-<!---
-dkbera01/dkbera01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+Building scalable applications, cloud-native systems, and AI-powered solutions.
+</p>
+
+---
+
+## 🚀 About Me
+
+- 💼 Full-Stack Developer with 10+ years of experience
+- 🔧 Expertise in Laravel, Node.js, NestJS, MySQL, PostgreSQL
+- ☁️ Working with Docker, Kubernetes, AWS & DevOps
+- 🤖 Exploring AI Agents, LLMs, RAG Systems, and Automation
+- 📚 Sharing my learning journey publicly
+- 🎯 Goal: Build an AI consulting & software agency
+
+## 🌱 Current Focus
+
+- AI Agents & LLM Applications
+- RAG Architectures
+- Kubernetes & Cloud Native Development
+- Independent Consulting Journey
+
+---
+
+## 📫 Connect With Me
+
+- 📧 dhavalbera25@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/dhaval-bera/
+- 💻 GitHub: https://github.com/dkbera01
+
+---
+
+<p align="center">
+  <i>"Building software that solves real business problems."</i>
+</p>
